@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"./signal"
 	webrtc "github.com/pion/webrtc/v3"
+	signal "github.com/yurikoex/crobloc/src/signal"
 )
 
 type Block struct {

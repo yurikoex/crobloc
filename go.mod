@@ -1,4 +1,4 @@
-module decodingideas.com/crobloc
+module github.com/yurikoex/crobloc
 
 go 1.15
 
